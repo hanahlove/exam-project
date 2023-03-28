@@ -1,0 +1,44 @@
+*{margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+color:aliceblue;}
+
+.Carol p{ text-align: center;
+    display: contents;
+    font-size: large;
+
+}
+.Carol{
+    width: 100%;
+    height: 100vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 80px;
+    text-align: center;
+    font-family:  cursive;
+    background: url(interior/greenchristmas.webp);
+    border: solid black;
+    text-shadow: 5px 10px 10px 0px;
+}
+
+div{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+
+div img{
+    width: 500px;
+    height: 800px;
+    border: solid rgb(8, 0, 0);
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px 0px;
+    cursor: pointer;
+    margin: 10px;
+}

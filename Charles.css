@@ -1,0 +1,44 @@
+*{margin: 0; 
+    padding: 0%;
+background-size: 100%;
+background: cover;
+color:aliceblue;}
+
+.Charles p{ text-align: center;
+    display: contents;
+    font-size: large;
+
+}
+.Charles{
+    width: 100%;
+    height: 100vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 80px;
+    text-align: center;
+    font-family:  cursive;
+    background: url(interior/toysback.jpeg);
+    border: solid black;
+    text-shadow: 5px 10px 10px 0px;
+    background-position: center;
+}
+
+div{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+div img{
+    width: 500px;
+    height: 500px;
+    border: solid black;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px 0px;
+    cursor: pointer;
+    margin: 10px;
+}
